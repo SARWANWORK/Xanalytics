@@ -1,4 +1,4 @@
-##Welcome to My GitHub Projects Page.
+## Welcome to My GitHub Projects Page.
 
 Hello, I am Sarwan Kumar Chaubey a Data Analyst/ Data Scientist. In this page you are able to take a glimpse of my portfolio. 
 
