@@ -2,6 +2,12 @@
 
 Hello, I am Sarwan Kumar Chaubey a Data Analyst/ Data Scientist. In this page you are able to take a glimpse of my portfolio. 
 
+### List of specialities:
+### * Visualizing your data in dashboard/BI tools like Google Data Studio/Power BI
+### * A/B testing strategy, implementation & analysis.
+### * Statistical modelling.
+### * Automation/Data pipelining.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
