@@ -1,8 +1,6 @@
 ##Welcome to My GitHub Projects Page.
 
-You can use the [editor on GitHub](https://github.com/SARWANWORK/xanalytics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello, I am Sarwan Kumar Chaubey a Data Analyst/ Data Scientist. In this page you are able to take a glimpse of my portfolio. 
 
 ### Markdown
 
