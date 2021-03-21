@@ -9,8 +9,10 @@
 - Automation/Data pipelining.
 
 ### **Tools and Languages**
-- Tableau   - Microsoft Power BI - Alteryx Designer  - Python
-- R  - SQL   - Excel
+- Tableau  & Microsoft Power BI 
+- Alteryx Designer  
+- Python & R
+- SQL & Excel
 
 ### Markdown
 
