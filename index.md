@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Projects Page.
 
-Hello, I am Sarwan Kumar Chaubey a Data Analyst/ Data Scientist. In this page you are able to take a glimpse of my portfolio. 
+*Hello, I am Sarwan Kumar Chaubey a Data Analyst/ Data Scientist. In this page you are able to take a glimpse of my portfolio.*
 
 ### My specialities:
 - Visualizing your data in dashboard/BI tools like Google Data Studio/Power BI
