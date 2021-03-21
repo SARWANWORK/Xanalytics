@@ -12,6 +12,10 @@
 - Tableau
 - Microsoft Power BI
 - Alteryx Designer
+- Python
+- R
+- SQL
+- Excel
 
 ### Markdown
 
